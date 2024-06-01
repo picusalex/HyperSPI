@@ -1,6 +1,6 @@
 name: HyperSPI ESP32/8266 CI Build
 
-on: [push]
+on: workflow_dispatch
 
 jobs:
 
